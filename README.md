@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋, I'm Muzamil Abbas
 
-<!--
-**muzamilabbaspk/muzamilabbaspk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer | Coding since 2019
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Software Developer with 6+ years of coding experience
+- 🌱 Always learning new technologies
+- ⚡ Passionate about clean, scalable, and maintainable code
+- 🤝 Open to collaborating on interesting projects
+
+## 🛠️ Tech Stack
+
+**Languages**
+- JavaScript
+- Python
+- PHP
+- SQL
+
+**Frontend**
+- HTML5
+- CSS3
+- Bootstrap
+- React (Learning)
+
+**Backend**
+- Node.js
+- Express
+- PHP
+- MySQL
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+- Linux
+
+## 📌 Current Goals
+
+- Build impactful full-stack applications
+- Contribute to open source
+- Learn cloud technologies
+- Improve system design skills
+
+---
+
+> "Code. Learn. Build. Repeat."
