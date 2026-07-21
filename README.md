@@ -1,4 +1,4 @@
-# Hi 👋, I'm Muzamil Abbas
+# Hello, I'm Muzamil Abbas
 
 💻 Software Developer | Coding since 2019
 
